@@ -1,0 +1,15 @@
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\bin\Debug\net6.0\TCPchartServer.exe
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\bin\Debug\net6.0\TCPchartServer.deps.json
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\bin\Debug\net6.0\TCPchartServer.runtimeconfig.json
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\bin\Debug\net6.0\TCPchartServer.dll
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\bin\Debug\net6.0\TCPchartServer.pdb
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\obj\Debug\net6.0\TCPchartServer.csproj.AssemblyReference.cache
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\obj\Debug\net6.0\TCPchartServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\obj\Debug\net6.0\TCPchartServer.AssemblyInfoInputs.cache
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\obj\Debug\net6.0\TCPchartServer.AssemblyInfo.cs
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\obj\Debug\net6.0\TCPchartServer.csproj.CoreCompileInputs.cache
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\obj\Debug\net6.0\TCPchartServer.dll
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\obj\Debug\net6.0\refint\TCPchartServer.dll
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\obj\Debug\net6.0\TCPchartServer.pdb
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\obj\Debug\net6.0\TCPchartServer.genruntimeconfig.cache
+C:\Users\lifec\source\repos\TCPchartServer\TCPchartServer\obj\Debug\net6.0\ref\TCPchartServer.dll
